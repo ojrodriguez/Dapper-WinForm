@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <Conexion>
+    <Server>GP08</Server>
+    <Database>DB_MVC</Database>
+    <User>Admin2</User>
+	<Password>123456</Password>
+  </Conexion>
+ 
+</Table>
