@@ -1,0 +1,11 @@
+C:\Users\ORodriguez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\prueba\DapperRepoWinForm\DapperRepoWinForm\bin\Debug\DapperRepoWinForm.exe.config
+C:\Users\ORodriguez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\prueba\DapperRepoWinForm\DapperRepoWinForm\obj\Debug\DapperRepoWinForm.Properties.Resources.resources
+C:\Users\ORodriguez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\prueba\DapperRepoWinForm\DapperRepoWinForm\obj\Debug\DapperRepoWinForm.csproj.GenerateResource.Cache
+C:\Users\ORodriguez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\prueba\DapperRepoWinForm\DapperRepoWinForm\bin\Debug\DapperRepoWinForm.exe
+C:\Users\ORodriguez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\prueba\DapperRepoWinForm\DapperRepoWinForm\bin\Debug\DapperRepoWinForm.pdb
+C:\Users\ORodriguez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\prueba\DapperRepoWinForm\DapperRepoWinForm\bin\Debug\Dapper.dll
+C:\Users\ORodriguez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\prueba\DapperRepoWinForm\DapperRepoWinForm\bin\Debug\Dapper.xml
+C:\Users\ORodriguez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\prueba\DapperRepoWinForm\DapperRepoWinForm\obj\Debug\DapperRepoWinForm.exe
+C:\Users\ORodriguez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\prueba\DapperRepoWinForm\DapperRepoWinForm\obj\Debug\DapperRepoWinForm.pdb
+C:\Users\ORodriguez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\prueba\DapperRepoWinForm\DapperRepoWinForm\obj\Debug\DapperRepoWinForm.csprojResolveAssemblyReference.cache
+C:\Users\ORodriguez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\prueba\DapperRepoWinForm\DapperRepoWinForm\obj\Debug\DapperRepoWinForm.Forms.Form1.resources
